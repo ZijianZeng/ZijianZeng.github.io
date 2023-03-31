@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ## Graduate Teaching Assistant, Rice University:
-* STAT 541 Multivariate Analysis, Spring 2023
-* STAT 615 Regression and Linear Models, Fall 2022
-* STAT 530 Causal Analysis, Spring 2022
-* STAT 450 Senior Capstone Project, Fall 2021
-* STAT 519 Statistical Inference, Spring 2021
-* STAT 315 Probability and Statistics for Data Science, Fall 2018, 2019 and Spring 2019, 2020
+* STAT 541 Multivariate Analysis, *23S*
+* STAT 615 Regression and Linear Models, *22F*
+* STAT 530 Causal Analysis, *22S*
+* STAT 450 Senior Capstone Project, *21F*
+* STAT 519 Statistical Inference, *21S*
+* STAT 315 Probability and Statistics for Data Science, *18F, 19S, 19F, 20S*
   * Led a team of 8 labbies to design and offer Lab section using R
   * Established the Lab section of this new course in the year 2018
 
