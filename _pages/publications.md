@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## Journal papers
-===
+---
 * **Zeng, Z.**, Li, M. and Vannucci, M. (2023+). Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior. *Bayesian Anaysis*, in press.
 
 * Ryan, C.T., **Zeng, Z.**, Chatterjee, S., Wall, M.J., Moon, M.R., Coselli, J.S., Rosengart T.K., Li, M., and Ghanta, R.K., (2022). Machine Learning for Dynamic and Early Prediction of Acute Kidney Injury after Cardiac Surgery. *Journal of Thoracic and Cardiovascular Surgery*, in press
@@ -24,7 +24,7 @@ author_profile: true
 * **Zeng, Z.** and Li, M. (2021). Bayesian Median Autoregression for Robust Time Series Forecasting. *International Journal of Forecasting*, 37(2), 1000-1010
 
 ## Conference abstracts/proceedings
-===
+---
 * Ryan, C., **Zeng, Z.**, Chatterjee, S., Wall, M., Rosengart, T., Li, M. and Ghanta, R., (2022). Machine Learning for Real-Time and Early Prediction of Acute Kidney Injury after Cardiac Surgery. *102nd AATS Annual Meeting Conference Abstract (Peer Reviewed)* [Abstract](https://www.aats.org/resources/1372)
 
 * Zeng, Z., Li, M. and Vannucci, M. (2022). Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior. 
