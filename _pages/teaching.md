@@ -18,4 +18,4 @@ author_profile: true
 ## Mentor, Rice University
 * Hongying Li, Oct 2022 - Current  
 * Emma Dunn, Dileka Gunawardana, Ranie Lin, Eric Maeng, Dylan Nguyen, April Yang, Peter Zhu. Fall 2021
-  ** Senior Capstone Projects
+ * Senior Capstone Projects
