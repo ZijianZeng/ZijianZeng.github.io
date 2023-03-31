@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
-======
-123
+I am a Ph.D. Candidate in the [Department of Statistics](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). I am co-advised by [Dr. Meng Li](http://meng.rice.edu/) and [Dr. Marina Vannucci](http://marina.blogs.rice.edu/). 
+ 
