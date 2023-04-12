@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Statistics](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/), co-advised by [Dr. Meng Li](http://meng.rice.edu/) and [Dr. Marina Vannucci](http://marina.blogs.rice.edu/). Prior to joining Rice, I earned a Master's degree in Economics from Duke University, where I found my interests in Bayesian Statistics and decided to continue pursuing a Ph.D. in Statistics.
+I am a Ph.D. in the [Department of Statistics](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/), co-advised by [Dr. Meng Li](http://meng.rice.edu/) and [Dr. Marina Vannucci](http://marina.blogs.rice.edu/). Prior to joining Rice, I earned a Master's degree in Economics from Duke University, where I found my interests in Bayesian Statistics and decided to continue pursuing a Ph.D. in Statistics.
 
 While my research interests lie primarily in the development of Bayesian statistical models for complex problems and applications, I am also open to the other methodologies. I believe that interdisciplinary studies can often inspire great new ideas. My research includes Bayesian modeling, variable selection, nonparametric Bayes, quantile regression, functional data analysis and machine learning on different types of datasets including economic time-series, image data and gene expression data.
 
