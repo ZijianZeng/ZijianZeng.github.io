@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV](https://github.com/ZijianZeng/ZijianZeng.github.io/blob/master/images/CV.pdf) – last updated 08/2023
+[My CV](https://github.com/ZijianZeng/ZijianZeng.github.io/blob/master/images/CV.pdf) – last updated 12/2023
