@@ -17,7 +17,7 @@ author_profile: true
 
 ## Mentor, Rice University
 * Sol Kim (REU),  Melody Yeh. Summer 2023
-  * Summer projects 
-* Hongying Li, Oct 2022 - Current  
+  * Summer projects
+   
 * Emma Dunn, Dileka Gunawardana, Ranie Lin, Eric Maeng, Dylan Nguyen, April Yang, Peter Zhu. Fall 2021
   * Senior Capstone Projects
