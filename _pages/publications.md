@@ -17,7 +17,9 @@ author_profile: true
 
 ## Journal papers
 ---
-* **Zeng, Z.**, Li, M. and Vannucci, M. (2023+). Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior. *Bayesian Analysis*, in press.
+* **Zeng, Z.**, Li, M. and Vannucci, M. (2025+). Bayesian Covariate-Dependent Graph Learning with a Dual Group Spike-and-Slab Prior. *Under Revision*.
+
+* **Zeng, Z.**, Li, M. and Vannucci, M. (2024). Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior. *Bayesian Analysis*, 19(1), 235-260. 
 [(Python code)](https://github.com/ZijianZeng/BIoS_SGLSS)
 
 * Ryan, C.T., **Zeng, Z.**, Chatterjee, S., Wall, M.J., Moon, M.R., Coselli, J.S., Rosengart T.K., Li, M., and Ghanta, R.K., (2023). Machine Learning for Dynamic and Early Prediction of Acute Kidney Injury after Cardiac Surgery. *Journal of Thoracic and Cardiovascular Surgery*, 166(6). (with [Commentary](https://www.jtcvs.org/article/S0022-5223(22)01048-0/fulltext) )
@@ -27,6 +29,8 @@ author_profile: true
 
 ## Conference abstracts/proceedings
 ---
+* **Zeng, Z.**, Rauch, J., Chaudhary, M., Mahajan, M., Wu, CH., Kallesen, R., (2024). An Interpretable Auto-ML Pipeline for B2B Pricing Decisions. *INFORMS Annual 2024*  [Abstract](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=8278).
+
 * Ryan, C., **Zeng, Z.**, Chatterjee, S., Wall, M., Rosengart, T., Li, M. and Ghanta, R., (2022). Machine Learning for Real-Time and Early Prediction of Acute Kidney Injury after Cardiac Surgery. *102nd AATS Annual Meeting Conference Abstract (Peer Reviewed)* [Abstract](https://www.aats.org/resources/1372)
 
 * Zeng, Z., Li, M. and Vannucci, M. (2022). Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior. 
